@@ -10,4 +10,4 @@ I'm a rajbir kaur from ludhiana. I paased out my 10+2 from meritorious school lu
 |math|77|20|xxx|A+|
 
 
-(https.www.gihub.com) 
+(https.www.github.com) 
