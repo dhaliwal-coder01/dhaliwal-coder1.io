@@ -11,3 +11,5 @@ I'm a rajbir kaur from ludhiana. I paased out my 10+2 from meritorious school lu
 
 
 (https.www.github.com) 
+😹
+![alt text](image.jpg) 
