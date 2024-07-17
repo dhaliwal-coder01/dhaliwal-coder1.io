@@ -8,4 +8,6 @@ I'm a rajbir kaur from ludhiana. I paased out my 10+2 from meritorious school lu
 |physics|53|5|25|A|
 |chemistry|61|5|25|A+|
 |math|77|20|xxx|A+|
-! [alt text](image.jpg) 
+
+
+(https.www.gihub.com) 
